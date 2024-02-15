@@ -1,0 +1,53 @@
+12:46:43.141 [main] INFO  testCases.TC_001_CarLoan - *** Starting TC_001_CarLoan ***
+12:46:48.286 [main] INFO  testCases.TC_001_CarLoan - Setting Loan Amount Value
+12:46:51.327 [main] INFO  testCases.TC_001_CarLoan - Setting Interest Rate
+12:46:52.703 [main] INFO  testCases.TC_001_CarLoan - Setting Loan tenure
+12:46:54.598 [main] INFO  testCases.TC_001_CarLoan - *** Finished TC_001_CarLoan ***
+12:47:16.884 [main] INFO  testCases.TC_002_HomeLoan - *** Starting TC_002_homeLoan ***
+12:47:18.295 [main] INFO  testCases.TC_002_HomeLoan - Setting loan Amount
+12:47:21.418 [main] INFO  testCases.TC_002_HomeLoan - Setting interest Rate 
+12:47:23.325 [main] INFO  testCases.TC_002_HomeLoan - Setting Loan Tenure 
+12:47:28.589 [main] INFO  testCases.TC_002_HomeLoan - Storing Table Data in a List
+12:47:29.468 [main] INFO  testCases.TC_002_HomeLoan - Writing Table Data into the Excel File
+12:47:29.468 [main] INFO  testCases.TC_002_HomeLoan - *** Finished TC_002_homeLoan ***
+12:47:53.746 [main] INFO  testCases.TC_003_LoanEMICalculator - *** Starting TC_003_LoanEMICalculator ***
+12:47:55.497 [main] INFO  testCases.TC_003_LoanEMICalculator - Clicking on Loan Calculator Link
+12:47:56.097 [main] INFO  testCases.TC_003_LoanEMICalculator - Selecting EMI Calculator
+12:47:56.704 [main] INFO  testCases.TC_003_LoanEMICalculator - Validating Loan Amount Input Box
+12:47:56.790 [main] INFO  testCases.TC_003_LoanEMICalculator - Validating Loan Interest Input Box
+12:47:56.879 [main] INFO  testCases.TC_003_LoanEMICalculator - Validating Loan Tenure Input Box
+12:47:56.962 [main] INFO  testCases.TC_003_LoanEMICalculator - Validating Loan Fees&Charges Input Box
+12:47:59.362 [main] INFO  testCases.TC_003_LoanEMICalculator - Validating Loan Amount Slider
+12:48:01.108 [main] INFO  testCases.TC_003_LoanEMICalculator - Validating Interest Rate Slider
+12:48:02.789 [main] INFO  testCases.TC_003_LoanEMICalculator - Validating Loan Tenure Slider
+12:48:04.425 [main] INFO  testCases.TC_003_LoanEMICalculator - Validating Fees&Charges Slider
+12:48:06.039 [main] INFO  testCases.TC_003_LoanEMICalculator - Validating Loan Tenure Slider for change in Tenure Year & Month
+12:48:06.039 [main] INFO  testCases.TC_003_LoanEMICalculator - *** Finished TC_003_LoanEMICalculator ***
+12:48:29.098 [main] INFO  testCases.TC_004_LoanAmountCalculator - *** Starting TC_004_LoanAmountCalculator ***
+12:48:30.971 [main] INFO  testCases.TC_004_LoanAmountCalculator - Clicking on Loan Calculator Link
+12:48:31.604 [main] INFO  testCases.TC_004_LoanAmountCalculator - Selecting Loan Amount Calculator
+12:48:32.323 [main] INFO  testCases.TC_004_LoanAmountCalculator - Validating Loan EMI Input Box
+12:48:32.422 [main] INFO  testCases.TC_004_LoanAmountCalculator - Validating Loan Interest Input Box
+12:48:32.538 [main] INFO  testCases.TC_004_LoanAmountCalculator - Validating Loan Tenure Input Box
+12:48:32.649 [main] INFO  testCases.TC_004_LoanAmountCalculator - Validating Loan Fees&Charges Input Box
+12:48:35.028 [main] INFO  testCases.TC_004_LoanAmountCalculator - Validating Loan EMI Slider
+12:48:36.888 [main] INFO  testCases.TC_004_LoanAmountCalculator - Validating Interest Rate Slider
+12:48:38.501 [main] INFO  testCases.TC_004_LoanAmountCalculator - Validating Loan Tenure Slider
+12:48:40.289 [main] INFO  testCases.TC_004_LoanAmountCalculator - Validating Fees&Charges Slider
+12:48:41.941 [main] INFO  testCases.TC_004_LoanAmountCalculator - Validating Loan Tenure Slider for change in Tenure Year & Month
+12:48:41.941 [main] INFO  testCases.TC_004_LoanAmountCalculator - *** Finished TC_004_LoanAmountCalculator ***
+12:49:05.560 [main] INFO  testCases.TC_005_LoanTenureCalculator - *** Starting TC_005_LoanTenureCalculator ***
+12:49:07.207 [main] INFO  testCases.TC_005_LoanTenureCalculator - Clicking on Loan Calculator Link
+12:49:08.457 [main] INFO  testCases.TC_005_LoanTenureCalculator - Validating Loan Amount Input Box
+12:49:08.551 [main] INFO  testCases.TC_005_LoanTenureCalculator - Validating Loan EMI Input Box
+12:49:08.647 [main] INFO  testCases.TC_005_LoanTenureCalculator - Validating Loan Interest Input Box
+12:49:08.751 [main] INFO  testCases.TC_005_LoanTenureCalculator - Validating Loan Fees&Charges Input Box
+12:49:10.899 [main] INFO  testCases.TC_005_LoanTenureCalculator - Validating Loan Amount Slider
+12:49:12.956 [main] INFO  testCases.TC_005_LoanTenureCalculator - Validating Loan EMI Slider
+12:49:14.718 [main] INFO  testCases.TC_005_LoanTenureCalculator - Validating Interest Rate Slider
+12:49:16.498 [main] INFO  testCases.TC_005_LoanTenureCalculator - Validating Fees&Charges Slider
+12:49:16.498 [main] INFO  testCases.TC_005_LoanTenureCalculator - *** Finished TC_005_LoanTenureCalculator ***
+12:59:52.379 [main] INFO  testCases.TC_001_CarLoan - *** Starting TC_001_CarLoan ***
+12:59:56.812 [main] INFO  testCases.TC_001_CarLoan - Setting Loan Amount Value
+12:59:59.909 [main] INFO  testCases.TC_001_CarLoan - Setting Interest Rate
+13:00:01.193 [main] INFO  testCases.TC_001_CarLoan - Setting Loan tenure
